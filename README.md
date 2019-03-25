@@ -12,4 +12,6 @@ Es necesario que antes de iniciar se cree un 'R Project' se guarden los scripts 
 Iniciar con el archivo 'web-scraping.R' modificando la fecha, una vez que haya terminado de correr este programa ejecutar el segundo archivo de R para crear una base de datos. Modificar de acuerdo a las necesidades. 
 
 
-Nota: En el procesamiento de datos pueden surgir algunos errores particulares
+Nota: 
+* En el procesamiento de datos pueden surgir algunos errores particulares
+* Se adjuntan los datos obtenidos para seis semanas
