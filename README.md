@@ -1,7 +1,10 @@
-# Datos-Google-Flights
-Web Scraping y minería de datos de la página https://www.google.com/flights
+# Google Flights Web Scraping and Data Mining
 
-Es necesario que antes de iniciar se cree un 'R Project' se guarden los scripts y el archivo xlsx dentro de esta carpeta y se instalen los siguientes paquetes:
+This repository focuses on web scraping and data mining from the [Google Flights](https://www.google.com/flights) website using R Selenium.
+
+**Prerequisites:**
+
+Before getting started, make sure to load the following R packages:
 
 - R Selenium
 - dplyr
@@ -9,9 +12,12 @@ Es necesario que antes de iniciar se cree un 'R Project' se guarden los scripts 
 - stringr
 - readxl
 
-Iniciar con el archivo 'web-scraping.R' modificando la fecha, una vez que haya terminado de correr este programa ejecutar el segundo archivo de R para crear una base de datos. Modificar de acuerdo a las necesidades. 
+**Usage:**
 
+Begin with the 'web-scraping.R' file, adjusting the date as needed.
+After running the script, execute the second R file ('data-mining.R) to generate a structured database that visually represents all flight information. Customize it based on your requirements.
 
-Nota: 
-* En el procesamiento de datos pueden surgir algunos errores particulares
-* Se adjuntan los datos obtenidos para seis semanas
+**Note:**
+
+- Data processing may encounter specific errors during execution.
+- Six weeks' worth of obtained data are included for reference. Feel free to modify and adapt the code to suit your needs.
