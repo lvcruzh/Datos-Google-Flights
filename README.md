@@ -14,8 +14,8 @@ Before getting started, make sure to load the following R packages:
 
 **Usage:**
 
-Begin with the 'web-scraping.R' file, adjusting the date as needed.
-After running the script, execute the second R file ('data-mining.R) to generate a structured database that visually represents all flight information. Customize it based on your requirements.
+- Modify the `rutas.xlsx` with the desired routes. Then, begin with the `web-scraping.R` file, adjusting the date as needed.
+- After running the script, execute the second R file (`datamining.R`) to generate a structured database that visually represents all flight information. Customize it based on your requirements.
 
 **Note:**
 
